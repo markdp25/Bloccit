@@ -26,6 +26,8 @@ group :development, :test do
    gem 'rails-controller-testing'
  end
 
+ gem 'bootstrap-sass'
+
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
