@@ -29,6 +29,9 @@ group :development, :test do
 
  gem 'bootstrap-sass'
 
+ # Used for encrypting passwords
+ gem 'bcrypt'
+
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
